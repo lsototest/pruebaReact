@@ -51,7 +51,11 @@ En caso de no aparecer una causa clara del error puede ejecutar maven con opcion
 Fue testeada con visual studio code sobre windows, por lo que necesita extensiones habilitadas en VSCode.
 
 Extensiones Java para visual studio code
+
 Extensiones React para visual studio code
+
 Extensiones Spring Boot para visual studio code
+
 Extensiones Swagger (Open-Api) para visual studio code
+
 Extensiones GIT para visual studio code
