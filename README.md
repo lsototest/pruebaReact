@@ -20,12 +20,19 @@ http://localhost:3000
 Software requerido:
 
 Node.JS 10 o superior
+
 NPM
+
 React (ultimas versiones)
+
 Visual Studio Code (ultimas versiones)
+
 Java JDK 11
+
 Maven 5
+
 MySQL Database ultimas versiones
+
 MySQL Workbench ultimas versiones
 
 Posibles problemas:
